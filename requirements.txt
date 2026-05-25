@@ -1,0 +1,9 @@
+# Things need to work wiht python (exact versions)
+
+flask==3.0.3
+flask-socketio==5.3.6
+eventlet==0.36.1
+ultralytics==8.2.103
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0
