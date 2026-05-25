@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ultralytics/
+*.log
+yolov8*.pt
+best.pt
+database/elephant.db
+uploads/*
+!uploads/.gitkeep
+detections/*
+!detections/.gitkeep
+recordings/*
+!recordings/.gitkeep
